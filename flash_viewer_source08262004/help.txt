@@ -1,0 +1,19 @@
+New features,"Well, I had this up for one day before finding a bug, now it doesn't say there is an error when you load from URL not that anyone has Version 1, (updated Aug, 25th 2004)"
+About,This program was written by Umer kk  Any Error. comments or questions Email to Umer_kk96@hotmail.com
+Load Movie form file, Chose a .swf on your hard drive to play
+Load Movie from URL, Loads a movie from the internet.  You must type in the full paht for the movie. ending in .swf
+Download, Downloads a file from the internet to your hard drive
+Exit,Exits
+Pause, Pauses
+Next Frame, goes to the next frame
+Back, Goes back one frame
+Rewind,Goes to the start of the movie
+Current Frame,Displayes the current frame
+Goto Frame,Goes to the frame enterd
+Addapt,If checked it will add any search to the search.txt file
+Check for variable,Checks to see if the enterd vriable exists
+Change variable,Changes a variable to a new value
+Search for variable,Searches for variable from the file search.txt add to it to increase the search
+Update list,Updates the list from the internet
+Search List, Double click on an item to change the value 
+Trouble Shooting,"If you have any problems, questions or comments email me at Umer_kk96@hotmail.com"
